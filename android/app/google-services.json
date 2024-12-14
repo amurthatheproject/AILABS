@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082221081484",
+    "project_id": "flutterflowai-fb9ff",
+    "storage_bucket": "flutterflowai-fb9ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082221081484:android:ee7557f94afc526a761ca9",
+        "android_client_info": {
+          "package_name": "com.mycompany.testproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkU9JmgJR-viVCd5PmWTIUkTVdoqRHfbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
